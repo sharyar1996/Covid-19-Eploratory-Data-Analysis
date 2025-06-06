@@ -24,7 +24,6 @@ This project analyzes the global spread of COVID-19 using time-series case data.
 - **Pandas** – Data manipulation
 - **NumPy** – Numerical operations
 - **Matplotlib** – Data visualization
-- *(Optionally include)* `Seaborn`, `Plotly`, or others if used
 
 ## 📁 Dataset
 
