@@ -12,11 +12,12 @@ This project analyzes the global spread of COVID-19 using time-series case data.
   - Cumulative and daily new confirmed cases
   - Recovery ratios and comparison between confirmed vs recovered cases
   - Peak day identification for individual countries
+  - Death rates of top countries vs most deaths in each country
 
 - 📉 **Visualizations**
-  - Multi-country line plots of confirmed cases over time
-  - Bar charts comparing recovery performance
-  - Annotated peaks and labels for maximum case days
+  - Multi-country line plots of confirmed cases over time.
+  - Bar charts comparing recovery ratios of different countries.
+  - Annotated peaks and labels for most infected days.
 
 ## 🔧 Technologies Used
 
